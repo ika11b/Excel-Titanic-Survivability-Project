@@ -8,7 +8,7 @@ The main objective of this project is to build an interactive dashboard analyzin
 
 During this project, I applied the following Excel skills:
   
-   • Data Cleaning (e.g., replacing empty cells with "Information Not Available")  
+   • Data Cleaning (replacing empty cells with "Information Not Available")  
    • Data Binning (categorizing individual age values into age groups)
    • Creating Pivot Tables
    • Building Visual Charts (Bar Charts and Pie Charts)
